@@ -15,8 +15,8 @@ export const projects = [
       "Learn basic concepts of React by implementing a Todo App alongside my Frontend mentor as a part of React course from SkillBrain©.",
     image: "/images/todo2.JPG",
     tags: ["React", "JavaScript"],
-    source: "https://github.com/SkillBrainFrontend/todo-app-Flor77",
-    visit: "https://skillbrainfrontend.github.io/todo-app-Flor77/",
+    source: "https://github.com/Flor77/todo",
+    visit: "https://todobyflor.netlify.app/",
     id: 1,
   },
   {
