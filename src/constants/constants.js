@@ -5,8 +5,8 @@ export const projects = [
       "Using HTML and CSS I learned how to build a full landing page - from start to finish from scratch using a Figma design model.",
     image: "/images/landingPage3.JPG",
     tags: ["HTML", "CSS", "Figma"],
-    source: "https://flor77.github.io/LandingPage/",
-    visit: "https://github.com/Flor77/LandingPage",
+    source: "https://github.com/Flor77/LandingPage",
+    visit: "https://landpagebyflor.netlify.app/",
     id: 0,
   },
   {
