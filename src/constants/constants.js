@@ -30,12 +30,23 @@ export const projects = [
   },
   {
     title: "Advice Slip",
-    description: "An advice random generator app using Advice Slip JSON API",
-    image: "/images/advice1.jpg",
+    description:
+      "An advice random generator app using the Advice Slip JSON API",
+    image: "/images/advice3.jpg",
     tags: ["JavaScript"],
     source: "https://github.com/Flor77/Advice-Slip",
     visit: "https://flor77.github.io/Advice-Slip/",
     id: 3,
+  },
+  {
+    title: "Realtor clone",
+    description:
+      "Realtor clone built with React js 18, Firebase 9, Tailwind CSS 3, and React router 6.",
+    image: "/images/realtor_profile1.JPG",
+    tags: ["React js", "Firebase", "Tailwindcss"],
+    source: "https://github.com/Flor77/realtor-clone",
+    visit: "https://realtor-clone-flor77.vercel.app",
+    id: 4,
   },
 ];
 
