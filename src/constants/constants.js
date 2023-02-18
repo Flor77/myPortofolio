@@ -48,6 +48,16 @@ export const projects = [
     visit: "https://realtor-clone-flor77.vercel.app",
     id: 4,
   },
+  {
+    title: "Netflix clone",
+    description:
+      "Front-end Netflix clone with a Firebase back-end, using Reactjs and Tailwind CSS",
+    image: "/images/netflix3.JPG",
+    tags: ["React js", "Firebase", "Tailwindcss"],
+    source: "https://netflix-clone-flor77.vercel.app/",
+    visit: "https://netflix-clone-flor77.vercel.app/",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
