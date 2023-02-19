@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Landing page",
+    title: "Cloud Management",
     description:
-      "Using HTML and CSS I learned how to build a full landing page - from start to finish from scratch using a Figma design model.",
-    image: "/images/landingPage3.JPG",
-    tags: ["HTML", "CSS", "Figma"],
-    source: "https://github.com/Flor77/LandingPage",
-    visit: "https://landpagebyflor.netlify.app/",
+      "Cloud Management front in website using React JS and Tailwind CSS",
+    image: "/images/cm6.JPG",
+    tags: ["React js", "Tailwindcss"],
+    source: "https://github.com/Flor77/cloud-management",
+    visit: "https://cloud-manage-flor77.netlify.app/",
     id: 0,
   },
   {
